@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9gj0Bn7Z/xpRxSViweRlV3BrmOKavnIn4zS+oJ/qle4=",
+  "Source": "RabbitProducer",
+  "BasePath": "_content/RabbitProducer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kuhzMh+wsrn+LCoGjbu9VWnyr7HEbgIwCsDlqL7KY50=",
+  "Source": "RabbitConsumer",
+  "BasePath": "_content/RabbitConsumer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
